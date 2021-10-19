@@ -3,6 +3,7 @@ None,Kosong
 "Allowed Scopes",Diizinkan
 "You need more permissions to apply some of the rule updates.","Anda membutuhkan lebih banyak izin untuk menerapkan beberapa aturan pembaruan."
 "You need more permissions to access website ""%1"".","Anda membutuhkan lebih banyak izin untuk mengakses situs ""%1""."
+"The ""%1"" store ID is incorrect. Verify the store ID and try again.","The ""%1"" website ID is incorrect. Verify the website ID and try again."
 "Role Scopes","Lingkup peran"
 Custom,Khusus
 "Read Details","Baca Detail"
