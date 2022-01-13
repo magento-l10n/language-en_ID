@@ -104,6 +104,7 @@ Customers,Pelanggan
 "Order by SKU","Pesan dengan SKU"
 "The SKU was not found in the catalog.","SKU tidak ditemukan di katalog."
 "Availability: Out of stock.","Ketersediaan: Habis."
+"We don't have as many of these as you want.","Kami tidak memiliki produk sebanyak yang anda inginkan."
 "You need to choose options for your item.","Anda harus memilih opsi untuk barang Anda."
 "Please enter an actual number in the ""Qty"" field.","Silakan masukkan jumlah aktual dalam field ""Qty""."
 "This product is assigned to another website.","Produk ini ditugaskan ke website lain."
@@ -135,6 +136,7 @@ Discount,Diskon
 Action,Tindakan
 "No ordered items","Tidak ada item pesanan"
 "Total %1 product(s)","Total %1 produk"
+Subtotal:,"Total bagian:"
 "Please select","Silahkan pilih"
 "Move to Wish List","Pindah ke Daftar Keinginan"
 "No item specified.","Tidak ada item yang ditentukan."
